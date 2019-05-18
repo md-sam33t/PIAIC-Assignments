@@ -45,26 +45,3 @@ else:
     print('Sorry, but seems like you are not going to advance')
 
 
-# In[ ]:
-
-
-
-
-
-# In[3]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
